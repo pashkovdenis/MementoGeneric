@@ -1,0 +1,10 @@
+c:\users\remote\source\repos\MementoExample\MementoExample\bin\Debug\MementoExample.exe.config
+c:\users\remote\source\repos\MementoExample\MementoExample\bin\Debug\MementoExample.exe
+c:\users\remote\source\repos\MementoExample\MementoExample\bin\Debug\MementoExample.pdb
+c:\users\remote\source\repos\MementoExample\MementoExample\bin\Debug\Newtonsoft.Json.dll
+c:\users\remote\source\repos\MementoExample\MementoExample\bin\Debug\Newtonsoft.Json.xml
+c:\users\remote\source\repos\MementoExample\MementoExample\obj\Debug\MementoExample.csprojAssemblyReference.cache
+c:\users\remote\source\repos\MementoExample\MementoExample\obj\Debug\MementoExample.csproj.CoreCompileInputs.cache
+c:\users\remote\source\repos\MementoExample\MementoExample\obj\Debug\MementoExample.csproj.CopyComplete
+c:\users\remote\source\repos\MementoExample\MementoExample\obj\Debug\MementoExample.exe
+c:\users\remote\source\repos\MementoExample\MementoExample\obj\Debug\MementoExample.pdb
